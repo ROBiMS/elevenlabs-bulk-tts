@@ -1,1 +1,0 @@
-Put input text here and don't forget to add the output folders (by default adam_output & freya_output).

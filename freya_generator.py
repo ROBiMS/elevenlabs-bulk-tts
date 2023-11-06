@@ -4,7 +4,7 @@ import requests
 CHUNK_SIZE = 1024
 API_URL = "https://api.elevenlabs.io/v1/text-to-speech/jsCqWAovK2LkecY7zXl4"
 API_KEY = "ebd177cc32f3c1e0448605f38d1d72db"
-TEXT_FILE_PATH = "data/input.txt"  # Update with the path to your text file
+TEXT_FILE_PATH = "data/freya_input.txt"  # Update with the path to your text file
 MODEL_ID = "eleven_multilingual_v1"
 OUTPUT_DIR = "freya_output"
 

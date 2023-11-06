@@ -4,7 +4,7 @@ import requests
 CHUNK_SIZE = 1024
 API_URL = "https://api.elevenlabs.io/v1/text-to-speech/pNInz6obpgDQGcFmaJgB"
 API_KEY = "ebd177cc32f3c1e0448605f38d1d72db"
-TEXT_FILE_PATH = "data/input.txt"  # Update with the path to your text file
+TEXT_FILE_PATH = "data/adam_input.txt"  # Update with the path to your text file
 MODEL_ID = "eleven_multilingual_v2"
 OUTPUT_DIR = "adam_output"
 

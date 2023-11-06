@@ -6,7 +6,7 @@ The repo has generators for:
 - Adam
 - Freya
 
-with default configs. Both take the shared input file in ```data/input.txt```.
+with default configs. They take their input from in ```data/adam_input.txt``` and ```data/freya_input.txt```.
 The output files are saved to ```adam_output/``` and ```freya_output/``` respectively and will be seperated by lines with the name as ```line_number.mp3```.
 
 ## Usage
